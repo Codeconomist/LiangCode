@@ -10,16 +10,15 @@ package liang8.Chapter2;
  *
  * @author robjc
  */
-public class Ch2Review1
+public class Ch2Review02
 {
     public static void main (String[] args)
     {
-
-        int applet = 1;
-        int Applet = 2;
-        int $4 = 3;
-        int radius = 1;
+        double miles = 100;
+        final double MILES_PER_KILOMETER = 1.609;
+        double kilometers;
         
-        System.out.println(applet + Applet+ $4);
+        kilometers = miles * MILES_PER_KILOMETER;
+        System.out.println(kilometers);
     }
 }

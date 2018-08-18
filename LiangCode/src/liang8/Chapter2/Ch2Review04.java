@@ -10,7 +10,7 @@ package liang8.Chapter2;
  *
  * @author robjc
  */
-public class Ch2Review4
+public class Ch2Review04
 {
     public static void main(String[] args)
     {

@@ -10,7 +10,7 @@ package liang8.Chapter2;
  *
  * @author robjc
  */
-public class Ch2Review9 {
+public class Ch2Review09 {
     public static void main(String[] args)
     {
         System.out.println("25/4 is " + 25 / 4);
