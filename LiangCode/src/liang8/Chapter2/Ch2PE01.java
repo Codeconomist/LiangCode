@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Rob
  */
-public class Ch2PE1
+public class Ch2PE01
 {
     public static void main (String[] args)
     {
