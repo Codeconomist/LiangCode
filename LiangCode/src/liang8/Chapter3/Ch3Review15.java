@@ -9,20 +9,16 @@ package liang8.Chapter3;
  *
  * @author harold
  */
-public class Ch3Review2 {
+public class Ch3Review15 {
     public static void main (String[] args)
     {
-
-        // Neither works
-
-/*        boolean b = true;
-        int i;
-        i = (int) b;
-        System.out.println(i);
- 
-        int i = 1;
-        boolean b = (boolean) i;
-*/
+        int num = 0;
+        boolean x;
+        if ((num > 1) && (num < 100))
+            x = true;
+        else
+            x = false;
+        System.out.println(x);
     }
     
 }
