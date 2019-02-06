@@ -1,9 +1,5 @@
 package liang8.Chapter05;
 import java.util.Scanner;
-/**
- *
- * @author harold
- */
 public class GreatestCommonDivisorMethod {
     public static void main(String[] args)
     {

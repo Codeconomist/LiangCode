@@ -1,9 +1,5 @@
 package liang8.Chapter06;
 
-/**
- *
- * @author harold
- */
 public class DeckOfCards {
     public static void main(String[] args)
     {

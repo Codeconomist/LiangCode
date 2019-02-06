@@ -1,12 +1,5 @@
-/*
- * Demonstrates the use of the long datatype
- */
 package liang8.Chapter02;
 
-/**
- *
- * @author Rob
- */
 public class ShowCurrentTime {
     public static void main(String[] args)
     {

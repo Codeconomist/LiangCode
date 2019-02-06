@@ -1,9 +1,5 @@
 package liang8.Chapter04;
 
-/**
- *
- * @author harold
- */
 public class TestBreak {
     public static void main (String[] args)
     {

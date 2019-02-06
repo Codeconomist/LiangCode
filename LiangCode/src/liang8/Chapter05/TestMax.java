@@ -1,9 +1,5 @@
 package liang8.Chapter05;
 
-/**
- *
- * @author harold
- */
 public class TestMax {
     public static void main (String[] args)
     {

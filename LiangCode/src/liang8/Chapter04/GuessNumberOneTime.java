@@ -1,9 +1,6 @@
 package liang8.Chapter04;
 import java.util.Scanner;
-/**
- *
- * @author harold
- */
+
 public class GuessNumberOneTime {
     public static void main(String[] args)
     {

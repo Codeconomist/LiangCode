@@ -1,13 +1,6 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package liang8.Chapter02;
 import java.util.Scanner;
-/**
- *
- * @author Rob
- */
+
 public class ComputeAverage {
     public static void main(String[] args)
     {

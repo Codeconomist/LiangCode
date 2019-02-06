@@ -1,10 +1,6 @@
 package liang8.Chapter04;
 import java.util.Scanner;
-/**
- *
- * @author harold
- * 
- */
+
 public class SubtractionQuizLoop {
     public static void main (String[] args)
     {

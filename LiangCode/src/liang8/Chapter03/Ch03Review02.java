@@ -1,9 +1,5 @@
 package liang8.Chapter03;
 
-/**
- *
- * @author harold
- */
 public class Ch03Review02 {
     public static void main (String[] args)
     {
@@ -19,5 +15,4 @@ public class Ch03Review02 {
         boolean b = (boolean) i;
 */
     }
-    
 }

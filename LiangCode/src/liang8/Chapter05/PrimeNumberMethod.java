@@ -1,9 +1,5 @@
 package liang8.Chapter05;
 
-/**
- *
- * @author harold
- */
 public class PrimeNumberMethod {
     public static void main(String[] args)
     {

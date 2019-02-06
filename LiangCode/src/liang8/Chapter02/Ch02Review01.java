@@ -1,15 +1,5 @@
 package liang8.Chapter02;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author robjc
- */
 public class Ch02Review01
 {
     public static void main (String[] args)

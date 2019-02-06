@@ -1,9 +1,5 @@
 package liang8.Chapter04;
 
-/**
- *
- * @author harold
- */
 public class TestSum {
     public static void main (String[] args)
     {

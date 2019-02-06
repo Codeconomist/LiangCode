@@ -1,9 +1,7 @@
 package liang8.Chapter02;
 import javax.swing.JOptionPane;
 /**
- *
- * @author harold
- * Question:  Write a program that reads the following information and prints a payroll statement:
+* Question:  Write a program that reads the following information and prints a payroll statement:
  *              Employee name
  *              Number of hours worked in a week
  *              Hourly pay rate

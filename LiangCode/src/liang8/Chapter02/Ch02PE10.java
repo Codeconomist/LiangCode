@@ -1,8 +1,6 @@
 package liang8.Chapter02;
 import javax.swing.JOptionPane;
 /**
- *
- * @author harold
  * Question:  Rebuild the ComputeChange.java to use JOptionPane.
  *              I was slack and used my previous answer, based on integers
  */

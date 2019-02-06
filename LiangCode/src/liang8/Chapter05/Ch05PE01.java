@@ -1,9 +1,6 @@
 package liang8.Chapter05;
 import java.util.Scanner;
-/**
- *
- * @author harold
- */
+
 public class Ch05PE01 {
     public static void main(String[] args)
     {

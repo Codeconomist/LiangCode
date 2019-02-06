@@ -1,8 +1,6 @@
 package liang8.Chapter03;
 import java.util.Scanner;
 /**
- *
- * @author harold
  * Question:  Use Cramer's rule to solve the 2x2 system of linear equations
  * ax + by = e
  * cx + dy = f
@@ -33,7 +31,5 @@ public class Ch03PE03 {
             
             System.out.println("x is " + x + " and y is " + y);
         }
-
-        
     }
 }

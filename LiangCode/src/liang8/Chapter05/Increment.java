@@ -1,9 +1,6 @@
 package liang8.Chapter05;
 
 /**
- *
- * @author harold
- * 
  * Note that this code in its documented state will not actually increment anything as it's a void method
  */
 public class Increment {

@@ -1,9 +1,6 @@
 package liang8.Chapter05;
 import java.util.Scanner;
-/**
- *
- * @author harold
- */
+
 public class Decimal2HexConversion {
     public static void main(String[] args)
     {

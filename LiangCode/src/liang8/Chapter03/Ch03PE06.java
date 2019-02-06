@@ -2,8 +2,6 @@ package liang8.Chapter03;
 import java.util.Scanner;
 
 /**
- *
- * @author harold
  * Question:  Revise ComputeBMI.java to use feet and inches
  */
 public class Ch03PE06 {

@@ -1,9 +1,5 @@
 package liang8.Chapter05;
 
-/**
- *
- * @author harold
- */
 public class RandomCharacter {
     public static char getRandomCharacter(char ch1, char ch2)
     {

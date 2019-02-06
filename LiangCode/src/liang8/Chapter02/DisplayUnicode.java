@@ -1,14 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package liang8.Chapter02;
 import javax.swing.JOptionPane;
-/**
- *
- * @author Rob
- */
+
 public class DisplayUnicode
 {
     public static void main(String[] args)

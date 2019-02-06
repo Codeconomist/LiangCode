@@ -1,9 +1,6 @@
 package liang8.Chapter03;
 import java.util.Scanner;
-/**
- *
- * @author harold
- */
+
 public class TestBooleanOperators
 {
     public static void main(String[] args)

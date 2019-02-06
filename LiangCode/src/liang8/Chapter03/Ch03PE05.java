@@ -2,8 +2,6 @@ package liang8.Chapter03;
 import java.util.Scanner;
 
 /**
- *
- * @author harold
  * Question:  Modify PE04 to generate 3 numbers and get the user to enter the lowest of the 3.
  */
 public class Ch03PE05 {
@@ -29,6 +27,5 @@ public class Ch03PE05 {
         }
         
         System.out.println(outcome);
-
     }
 }

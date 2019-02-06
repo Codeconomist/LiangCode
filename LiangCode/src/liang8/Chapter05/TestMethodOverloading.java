@@ -1,9 +1,5 @@
 package liang8.Chapter05;
 
-/**
- *
- * @author harold
- */
 public class TestMethodOverloading {
     public static void main(String[] args)
     {

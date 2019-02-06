@@ -2,8 +2,6 @@ package liang8.Chapter02;
 import java.util.Scanner;
 
 /**
- *
- * @author harold
  * Question:  Rewrite listing 2.10, ComputeChange.java, to fix the possible loss
  * of accuracy when converting a double value to an int value.  Enter the input 
  * as an integer whose last two digits represent the cents.

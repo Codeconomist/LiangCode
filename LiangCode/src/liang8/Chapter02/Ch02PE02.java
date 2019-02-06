@@ -2,8 +2,6 @@ package liang8.Chapter02;
 import java.util.Scanner;
 
 /**
- *
- * @author harold
  * Question:
  * Read the radius and length of a cylinder and compute the volume.  
  */

@@ -1,12 +1,6 @@
-/*
- * Number formatting; converting decimal places.
- */
 package liang8.Chapter02;
 import java.util.Scanner;
-/**
- *
- * @author Rob
- */
+
 public class ComputeLoan {
     public static void main(String[] args)
     {

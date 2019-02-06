@@ -1,9 +1,6 @@
 package liang8.Chapter04;
 import javax.swing.JOptionPane;
-/**
- *
- * @author harold
- */
+
 public class SentinelValuesUsingConfirmationDialog {
     public static void main (String[] args)
     {

@@ -1,14 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package liang8.Chapter06;
 import liang8.Chapter05.RandomCharacter;
-/**
- *
- * @author harold
- */
+
 public class CountLettersInArray
 {
     public static void main(String[] args)
