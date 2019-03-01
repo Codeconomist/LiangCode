@@ -13,8 +13,15 @@ public class CircleWithException
     
     public CircleWithException(double newRadius)
     {
-        setRadius(newRadius);
-        numberOfObjects++;
+        try
+        {
+            setRadius(newRadius);
+            numberOfObjects++;
+        }
+        catch (InvalidRadiusException ex)
+        {
+            System.out.println("Radius error");
+        }
     }
     
     public double getRadius()
