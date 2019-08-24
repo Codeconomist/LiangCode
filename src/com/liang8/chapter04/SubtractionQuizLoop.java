@@ -1,4 +1,4 @@
-package liang8.Chapter04;
+package com.liang8.chapter04;
 import java.util.Scanner;
 
 public class SubtractionQuizLoop {

@@ -1,4 +1,4 @@
-package liang8.Chapter05;
+package com.liang8.chapter05;
 
 /**
  * Note that this code in its documented state will not actually increment anything as it's a void method

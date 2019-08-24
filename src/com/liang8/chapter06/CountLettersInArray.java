@@ -1,4 +1,4 @@
-package liang8.Chapter06;
+package com.liang8.chapter06;
 import liang8.Chapter05.RandomCharacter;
 
 public class CountLettersInArray

@@ -1,4 +1,4 @@
-package liang8.Chapter03;
+package com.liang8.chapter03;
 
 public class Ch03Review15 {
     public static void main (String[] args)

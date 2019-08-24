@@ -1,4 +1,4 @@
-package liang8.Chapter02;
+package com.liang8.chapter02;
 import java.util.Scanner;
 /**
 * Question:  write a program that receives the ASCII code and displays its character.

@@ -1,4 +1,4 @@
-package liang8.Chapter03;
+package com.liang8.chapter03;
 import java.util.Scanner;
 /**
  * Question:  Use Cramer's rule to solve the 2x2 system of linear equations

@@ -1,4 +1,4 @@
-package liang8.Chapter02;
+package com.liang8.chapter02;
 import java.util.Scanner;
 
 public class ComputeChange 

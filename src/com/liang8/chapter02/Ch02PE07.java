@@ -1,4 +1,4 @@
-package liang8.Chapter02;
+package com.liang8.chapter02;
 import java.util.Scanner;
 /**
  * Question:  Convert a lower case letter to an upper case letter.

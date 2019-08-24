@@ -1,4 +1,4 @@
-package liang8.Chapter08;
+package com.liang8.chapter08;
 import javax.swing.*;
 
 public class GUIComponents

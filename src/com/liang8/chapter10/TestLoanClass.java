@@ -1,4 +1,4 @@
-package liang8.Chapter10;
+package com.liang8.chapter10;
 import java.util.Scanner;
 
 public class TestLoanClass

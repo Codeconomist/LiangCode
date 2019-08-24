@@ -1,4 +1,4 @@
-package liang8.Chapter12;
+package com.liang8.chapter12;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import java.awt.BorderLayout;

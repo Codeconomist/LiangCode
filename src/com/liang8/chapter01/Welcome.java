@@ -1,4 +1,4 @@
-package liang8.Chapter01;
+package com.liang8.chapter01;
 
 public class Welcome {
     public static void main(String[] args) {

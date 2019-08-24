@@ -1,4 +1,4 @@
-package liang8.Chapter13;
+package com.liang8.chapter13;
 import java.util.Scanner;
 
 public class QuotientWithIf

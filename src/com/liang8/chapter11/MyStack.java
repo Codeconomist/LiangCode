@@ -1,4 +1,4 @@
-package liang8.Chapter11;
+package com.liang8.chapter11;
 
 public class MyStack
 {

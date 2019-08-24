@@ -1,4 +1,4 @@
-package liang8.Chapter04;
+package com.liang8.chapter04;
 
 public class TestContinue {
     public static void main (String[] args)

@@ -1,4 +1,4 @@
-package liang8.Chapter12;
+package com.liang8.chapter12;
 import javax.swing.*;
 import java.awt.*;
 

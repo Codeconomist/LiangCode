@@ -1,4 +1,4 @@
-package liang8.Chapter02;
+package com.liang8.chapter02;
 
 /*
  *  This class is also written up as ShowCurrentTime.java

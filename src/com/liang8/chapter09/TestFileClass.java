@@ -1,4 +1,4 @@
-package liang8.Chapter09;
+package com.liang8.chapter09;
 
 public class TestFileClass
 {

@@ -1,4 +1,4 @@
-package liang8.Chapter02;
+package com.liang8.chapter02;
 import javax.swing.JOptionPane;
 
 public class DisplayUnicode

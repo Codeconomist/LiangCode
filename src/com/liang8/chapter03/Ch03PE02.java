@@ -1,4 +1,4 @@
-package liang8.Chapter03;
+package com.liang8.chapter03;
 import java.util.Scanner;
 /**
  * Question:  Reads an integer and checks if it's odd

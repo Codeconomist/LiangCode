@@ -1,4 +1,4 @@
-package liang8.Chapter04;
+package com.liang8.chapter04;
 import javax.swing.JOptionPane;
 
 public class SentinelValuesUsingConfirmationDialog {

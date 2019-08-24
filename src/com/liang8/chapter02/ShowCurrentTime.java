@@ -1,4 +1,4 @@
-package liang8.Chapter02;
+package com.liang8.chapter02;
 
 public class ShowCurrentTime {
     public static void main(String[] args)

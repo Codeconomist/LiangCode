@@ -1,4 +1,4 @@
-package liang8.Chapter02;
+package com.liang8.chapter02;
 import java.util.Scanner;
 /**
  * Question:  Read an integer between 100 and 999 and multiplies all the digits in the integer

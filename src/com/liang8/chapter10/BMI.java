@@ -1,4 +1,4 @@
-package liang8.Chapter10;
+package com.liang8.chapter10;
 
 public class BMI
 {

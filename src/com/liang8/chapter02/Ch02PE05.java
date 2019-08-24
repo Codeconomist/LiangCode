@@ -1,4 +1,4 @@
-package liang8.Chapter02;
+package com.liang8.chapter02;
 import java.util.Scanner;
 /**
  * Question:  Enter the subtotal and gratuity rate to calculate the gratuity and total

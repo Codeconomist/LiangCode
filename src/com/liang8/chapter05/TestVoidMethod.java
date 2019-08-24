@@ -1,4 +1,4 @@
-package liang8.Chapter05;
+package com.liang8.chapter05;
 
 public class TestVoidMethod {
     public static void main (String[] args)

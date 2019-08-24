@@ -1,4 +1,4 @@
-package liang8.Chapter02;
+package com.liang8.chapter02;
 import javax.swing.JOptionPane;
 /**
 * Question:  Write a program that reads the following information and prints a payroll statement:

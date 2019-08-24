@@ -1,4 +1,4 @@
-package liang8.Chapter07;
+package com.liang8.chapter07;
 
 public class GradeExam
 {

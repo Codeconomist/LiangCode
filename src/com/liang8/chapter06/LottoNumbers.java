@@ -1,4 +1,4 @@
-package liang8.Chapter06;
+package com.liang8.chapter06;
 import java.util.Scanner;
 /**
  * Once run, this will take sequential user inputs for the numbers from 1-99 and cease when 0 is entered.
