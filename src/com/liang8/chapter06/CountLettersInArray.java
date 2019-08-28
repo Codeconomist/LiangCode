@@ -1,5 +1,5 @@
 package com.liang8.chapter06;
-import liang8.Chapter05.RandomCharacter;
+import com.liang8.chapter05.RandomCharacter;
 
 public class CountLettersInArray
 {
